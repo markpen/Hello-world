@@ -8,3 +8,7 @@ git remote add origin + url.git // pull those chagnes
 git pull origin master // now, push your work to your new repo
 git push origin master
 
+reference:
+https://help.github.com/articles/fork-a-repo/
+https://stackoverflow.com/questions/3620633/what-is-the-difference-between-pull-and-clone-in-git
+
