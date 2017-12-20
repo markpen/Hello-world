@@ -1,7 +1,13 @@
 ---2017-12-20---
-git branch username
-git checkout
+git branch branchname // switch to branch from master
+git checkout filename// retrieval the file from staged to disk
 git push origin username
+git stage = git add // add a modified file to the cache
+git diff
+git diff --staged
+git reset filename // delete the file in the staged cache
+git checkout master // go to master 
+git merge branchname // merge another branch into current branch
 
 https://www.zhihu.com/question/19946553
 
