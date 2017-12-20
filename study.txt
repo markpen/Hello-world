@@ -4,3 +4,7 @@ git commit
 git push
 git pull
 
+git remote add origin + url.git // pull those chagnes
+git pull origin master // now, push your work to your new repo
+git push origin master
+
