@@ -3,6 +3,8 @@ git branch username
 git checkout
 git push origin username
 
+https://www.zhihu.com/question/19946553
+
 ---2017-12-19---
 git clone
 git commit
@@ -18,3 +20,5 @@ https://help.github.com/articles/fork-a-repo/
 https://www.atlassian.com/git/tutorials/why-git
 https://stackoverflow.com/questions/3620633/what-is-the-difference-between-pull-and-clone-in-git
 https://help.github.com/articles/adding-an-existing-project-to-github-using-the-command-line/
+
+
