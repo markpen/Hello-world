@@ -1,3 +1,8 @@
+---2017-12-20---
+git branch username
+git checkout
+git push origin username
+
 ---2017-12-19---
 git clone
 git commit
