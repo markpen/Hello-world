@@ -1,3 +1,14 @@
+---2017-12-27---
+To initialize a repository in GitHub:
+1, create a new repository on GitHub.
+2, git init
+3, echo "# Image-Matching" >> README.md
+4, git add README.md
+5, vi .gitignore
+6, git add .
+7, git commit -m "version 1. 0. 0"
+8, git push
+
 ---2017-12-20---
 git branch branchname // switch to branch from master
 git checkout filename// retrieval the file from staged to disk
@@ -8,7 +19,10 @@ git diff --staged
 git reset filename // delete the file in the staged cache
 git checkout master // go to master 
 git merge branchname // merge another branch into current branch
+git branch -d branchname // delete the branch
 
+references:
+https://confluence.atlassian.com/bitbucket/use-a-git-branch-to-merge-a-file-681902555.html
 https://www.zhihu.com/question/19946553
 
 ---2017-12-19---
