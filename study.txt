@@ -2,6 +2,8 @@
 To initialize a repository in GitHub:
 1, create a new repository on GitHub.
 2, git init
+2.1, git remote add origin URL.git
+2.2, git push -u origin master
 3, echo "# Image-Matching" >> README.md
 4, git add README.md
 5, vi .gitignore
