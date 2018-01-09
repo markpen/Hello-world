@@ -1,3 +1,6 @@
+---2018-01-08---
+1, git rm path_to_file // rm a file from git
+
 ---2017-12-27---
 To initialize a repository in GitHub:
 1, create a new repository on GitHub.
